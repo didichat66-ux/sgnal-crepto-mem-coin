@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "www.signal.com"
         minSdk = 24
-        targetSdk = 24
+        targetSdk = 21
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
